@@ -1,6 +1,6 @@
 ## Optimized react form using createRef.
 
-You can clone this project into your pc, you can run:
+After cloning the repository, do these steps:
 
 #### `cd react-createRef-form`
 #### `npm install`
